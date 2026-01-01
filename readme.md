@@ -13,7 +13,7 @@ https://github.com/julienXX/terminal-notifier
 完善mac端的行为  
 swift  
 
-## api proxy
+## [api proxy](https://github.com/yiquanfeng/api-proxy)
 ai的api代理  
 使用python和fastapi框架  
 数据库和消息队列  
